@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.extra-bold,
+.extra-smaller {
+    font-weight: 800;
+    color: black;
+}
+.extra-bold {
+    font-size: 22px;
+}
+.extra-smaller {
+    font-size: 14px;
+}
+.button {
+    font-size: 20px;
+    font-weight: bold;
+    outline: 2px solid black;
+}
+#cancel-button {
+    background: white;
+    color: black;
+}
+#confirm-button {
+    background: green;
+    color: white;
+}
+.thin {
+    font-weight: 100;
+    font-size: 22px;
+    color: black;
+}
+.child {
+    color: black;
+    font-weight: 800;
+    font-size: 14px;
+}
